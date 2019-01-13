@@ -1,3 +1,5 @@
+ * @author  Van Khoa NGUYEN, Tri Minh Phan, Son Thang NGUYEN
+ * @author  HO CHI MINH UNIVERSITY OF TECHNOLOGY
 
 #include "ClickButton.h"
  
