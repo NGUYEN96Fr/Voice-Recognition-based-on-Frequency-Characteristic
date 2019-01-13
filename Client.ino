@@ -3,7 +3,8 @@
 /**
  ******************************************************************************
  * @file    vr_train.ino
- * @author  Van Khoa
+ * @author  Van Khoa NGUYEN, Tri Minh Phan, Son Thang NGUYEN
+ * @author  HO CHI MINH UNIVERSITY OF TECHNOLOGY
  * @brief   This file provides a demostration on 
  * how to train VoiceRecognitionModule to record your voice
  ******************************************************************************
